@@ -4,8 +4,7 @@
 - 🔭 Atualmente trabalho com PHP, ORACLE
 <div align="left" style="display: inline_block">
   <a href="https://github.com/HenriqueFon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   Conhecimentos
   <div style="display: inline_block"><br>
