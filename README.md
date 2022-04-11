@@ -5,7 +5,7 @@
 <div align="left" style="display: inline_block">
   <a href="https://github.com/HenriqueFon">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" alt="Henrique's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFon&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" alt="Henrique's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   Conhecimentos
   <div style="display: inline_block"><br>
