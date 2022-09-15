@@ -2,7 +2,7 @@
 
 
 - 🔭 Full Stack Developer | PHP, ORACLE AND JAVA SCRIPT.
-- :books:Learning React JS
+- :books:Learning React JS, .NET
 <div align="left" style="display: inline_block">
   <a href="https://github.com/HenriqueFon">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HenriqueFon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
