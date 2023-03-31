@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-- 🔭 Full Stack Developer | PHP, ORACLE AND JAVA SCRIPT.
+- 🔭 Full Stack Developer | .NET, ORACLE, REACT.
 - :books:Learning React JS, .NET
 <div align="left" style="display: inline_block">
   <a href="https://github.com/HenriqueFon">
