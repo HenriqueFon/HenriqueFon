@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-- 🔭 Full Stack Developer | .NET, ORACLE, REACT.
+- 🔭 Full Stack Developer | .NET, REACT.
 - :books:Learning Devops
 <div align="left" style="display: inline_block">
   <a href="https://github.com/HenriqueFon">
